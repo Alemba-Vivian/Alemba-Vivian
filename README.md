@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alemba-Vivian
+- 👋 Hi, I’m Vivian Alemba
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Angular Framework
 - 💞️ I’m looking to collaborate on Web Application Projects
