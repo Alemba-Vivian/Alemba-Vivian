@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivian Alemba
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Teck Stack ( Nodejs-Express, PostgreSQL & Prism ORM)
+- 🌱 I’m currently learning Tech Stack ( Nodejs-Express, PostgreSQL & Prism ORM)
 - 💞️ I’m looking to collaborate on Web Application Projects
 - 📫 How to reach me alembavivianauma@gmail.com
 
