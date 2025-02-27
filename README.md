@@ -21,8 +21,11 @@ UI/UX Design: Designing intuitive and visually appealing interfaces with a user-
 Project Management: Coordinating and leading cross-functional teams using Agile methodologies to deliver high-quality solutions.
 
 🌟 Featured Projects
+
 Bizna Portal - A dynamic platform built with Angular and Django, featuring secure authentication and data visualization.
+
 WatuNews Website - A responsive news website designed with modern UI/UX principles and optimized for SEO.
+
 Project Management System - A web-based system for tracking milestones, budgets, and KPIs, enhancing project planning and execution.
 
 📫 Let's Connect!
