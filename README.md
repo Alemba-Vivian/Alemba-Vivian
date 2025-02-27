@@ -4,9 +4,11 @@
 Software Engineer | Frontend Developer | UI/UX Enthusiast | Agile Practitioner
 
 🌐 About Me
+
 I'm a passionate Software Engineer with a strong background in frontend web development, UI/UX design, and project management. I specialize in building responsive and user-friendly web applications using modern technologies. I love collaborating with cross-functional teams, solving complex problems, and continuously learning new tools and frameworks.
 
 💻 Tech Stack
+
 Frontend Development: Angular, HTML5, CSS3, JavaScript, Angular Material UI, Tailwind, Bootstrap
 Backend Development: Django, RestFul APIs, PostgreSQL
 UI/UX Design: Adobe XD, Wireframing, Prototyping, User Experience Principles
@@ -16,6 +18,7 @@ Project Management: Agile Methodologies, Trello, Jira, Microsoft Project, Monday
 Others: RESTful APIs, Responsive Design, Cross-browser Compatibility
 
 🚀 What I Do
+
 Frontend Web Development: Crafting responsive, dynamic, and user-friendly web applications using Angular and modern frontend technologies.
 UI/UX Design: Designing intuitive and visually appealing interfaces with a user-centric approach.
 Project Management: Coordinating and leading cross-functional teams using Agile methodologies to deliver high-quality solutions.
@@ -29,8 +32,13 @@ WatuNews Website - A responsive news website designed with modern UI/UX principl
 Project Management System - A web-based system for tracking milestones, budgets, and KPIs, enhancing project planning and execution.
 
 📫 Let's Connect!
-LinkedIn: linkedin.com/in/Vivian-Alemba
-Email: alembavivianauma@gmail.com
+
+LinkedIn: 
+
+linkedin.com/in/Vivian-Alemba
+Email:
+
+alembavivianauma@gmail.com
 
 ⚡ Fun Fact
 I’m passionate about empowering women in tech and believe in using technology to create a positive impact in the community.
