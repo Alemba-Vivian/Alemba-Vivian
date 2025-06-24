@@ -1,7 +1,7 @@
 👋 Hi there! I'm Vivian Auma Alemba
 
 
-Software Engineer | Frontend Developer | UI/UX Enthusiast | Agile Practitioner
+Software Engineer | AWS
 
 🌐 About Me
 
